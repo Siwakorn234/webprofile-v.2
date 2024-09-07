@@ -51,10 +51,3 @@ st.write("""
 st.subheader("📩 Connect with Me")
 st.write("""
 - 📩 srwmlaph@gmail.com
-
-# GitHub Stats
-st.subheader("GitHub Stats")
-st.image("https://github-readme-stats.vercel.app/api?username=JeerasakAnanta", use_column_width=True)
-
-# Footer
-st.write("Thank you krub for reading :) 💯💪")
