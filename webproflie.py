@@ -20,7 +20,6 @@ st.subheader("🧑‍💻 What I'm Doing Now")
 st.write("""
 - 💻 Studying In Math Science
 - ⌨️ Pratice Html
-- 
 """)
 
 # Tech Stack & Skills
