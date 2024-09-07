@@ -46,7 +46,4 @@ st.write("""
 - [ ] Have some game project
 """)
 
-# Contact Information
-st.subheader("📩 Connect with Me")
-st.write("""
-- 📩 srwmlaph@gmail.com
+
